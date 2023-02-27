@@ -1,0 +1,6 @@
+
+* Add properties with convention
+* Don't let Simio diagram be added twice if location isn't changed
+* Put a default Visio-Simio size conversion
+* Add instructions for creating stencils
+* 
